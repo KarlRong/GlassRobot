@@ -1,0 +1,830 @@
+C:\Users\LN\Desktop\近期\GlassRobot725\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LN\Desktop\近期\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\LN\Desktop\近期\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\LN\Desktop\近期\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\LN\Desktop\近期\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\LN\Desktop\近期\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.Function.resources
+I:\GlassRobot725\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+I:\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+I:\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+I:\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+I:\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\LN\Desktop\GlassRobot725\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LN\Desktop\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\LN\Desktop\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\LN\Desktop\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\LN\Desktop\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\LN\Desktop\GlassRobot725\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot725\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot2013-09-09\GlassRobot725\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot2013-09-09\GlassRobot725\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot2013-09-09\GlassRobot725\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot2013-09-09\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot2013-09-09\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot2013-09-09\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot2013-09-09\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot2013-09-09\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot2013-09-09\GlassRobot725\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\yorkli\Desktop\GlassRobot0910\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\yorkli\Desktop\GlassRobot0910\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\yorkli\Desktop\GlassRobot0910\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yorkli\Desktop\GlassRobot0910\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\yorkli\Desktop\GlassRobot0910\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\yorkli\Desktop\GlassRobot0910\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\yorkli\Desktop\GlassRobot0910\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\yorkli\Desktop\GlassRobot0910\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\yorkli\Desktop\GlassRobot0910\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\yorkli\Desktop\GlassRobot0916\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yorkli\Desktop\GlassRobot0916\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\yorkli\Desktop\GlassRobot0916\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\yorkli\Desktop\GlassRobot0916\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\yorkli\Desktop\GlassRobot0916\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\yorkli\Desktop\GlassRobot0916\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\yorkli\Desktop\GlassRobot0916\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\yorkli\Desktop\GlassRobot0916\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\yorkli\Desktop\GlassRobot0916\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\yorkli\Desktop\GlassRobot0916\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+C:\Users\liu\Desktop\GlassRobot1001\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\liu\Desktop\GlassRobot1001\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\liu\Desktop\GlassRobot1001\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\liu\Desktop\GlassRobot1001\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+C:\Users\liu\Desktop\GlassRobot1001\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\liu\Desktop\GlassRobot1001\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\liu\Desktop\GlassRobot1001\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\liu\Desktop\GlassRobot1001\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\liu\Desktop\GlassRobot1001\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\liu\Desktop\GlassRobot1001\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot1007\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot1007\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot1007\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+F:\My Documents\VS2005\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\yorkli\Desktop\GlassRobot1007\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yorkli\Desktop\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+C:\Users\yorkli\Desktop\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\yorkli\Desktop\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\yorkli\Desktop\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\yorkli\Desktop\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\yorkli\Desktop\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\yorkli\Desktop\GlassRobot1007\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\yorkli\Desktop\GlassRobot1007\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\yorkli\Desktop\GlassRobot1007\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\yorkli\Desktop\GlassRobot\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\yorkli\Desktop\GlassRobot\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\yorkli\Desktop\GlassRobot\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yorkli\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+C:\Users\yorkli\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\yorkli\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\yorkli\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\yorkli\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\yorkli\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\yorkli\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LN\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+C:\Users\LN\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\LN\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\LN\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\LN\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\LN\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0105\GlassRobot\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot0105\GlassRobot\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+F:\My Documents\VS2005\GlassRobot0105\GlassRobot\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot0105\GlassRobot\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot0105\GlassRobot\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot0105\GlassRobot\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot0105\GlassRobot\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0105\GlassRobot\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0105\GlassRobot\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0105\GlassRobot\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\liu\Desktop\GlassRobot0108\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\liu\Desktop\GlassRobot0108\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+C:\Users\liu\Desktop\GlassRobot0108\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\liu\Desktop\GlassRobot0108\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\liu\Desktop\GlassRobot0108\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\liu\Desktop\GlassRobot0108\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\liu\Desktop\GlassRobot0108\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\liu\Desktop\GlassRobot0108\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\liu\Desktop\GlassRobot0108\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\liu\Desktop\GlassRobot0108\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\yorkli\Desktop\GlassRobot0111\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\yorkli\Desktop\GlassRobot0111\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\yorkli\Desktop\GlassRobot0111\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yorkli\Desktop\GlassRobot0111\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+C:\Users\yorkli\Desktop\GlassRobot0111\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\yorkli\Desktop\GlassRobot0111\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\yorkli\Desktop\GlassRobot0111\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\yorkli\Desktop\GlassRobot0111\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\yorkli\Desktop\GlassRobot0111\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\yorkli\Desktop\GlassRobot0111\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0114\GlassRobot0114\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0114\GlassRobot0114\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0114\GlassRobot0114\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot0114\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+F:\My Documents\VS2005\GlassRobot0114\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot0114\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot0114\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot0114\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot0114\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0114\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0114\GlassRobot0114\GlassRobot\bin\Debug\MathLib.dll
+F:\My Documents\VS2005\GlassRobot0114\GlassRobot0114\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\yorkli\Desktop\GlassRobot0114\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\yorkli\Desktop\GlassRobot0114\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\yorkli\Desktop\GlassRobot0114\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\yorkli\Desktop\GlassRobot0114\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\yorkli\Desktop\GlassRobot0114\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yorkli\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+C:\Users\yorkli\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\yorkli\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\yorkli\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\yorkli\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\yorkli\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\yorkli\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot0114\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LN\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+C:\Users\LN\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\LN\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\LN\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\LN\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\LN\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot0114\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot0114\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot0114\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\LN\Desktop\GlassRobot0114\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\LN\Desktop\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0115\GlassRobot0114\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0115\GlassRobot0114\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0115\GlassRobot0114\GlassRobot\bin\Debug\MathLib.dll
+F:\My Documents\VS2005\GlassRobot0115\GlassRobot0114\GlassRobot\bin\Debug\MathLib.pdb
+F:\My Documents\VS2005\GlassRobot0115\GlassRobot0114\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot0115\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+F:\My Documents\VS2005\GlassRobot0115\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot0115\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot0115\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot0115\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot0115\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0115\GlassRobot0114\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot0115mathfun\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LN\Desktop\GlassRobot0115mathfun\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+C:\Users\LN\Desktop\GlassRobot0115mathfun\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\LN\Desktop\GlassRobot0115mathfun\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\LN\Desktop\GlassRobot0115mathfun\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\LN\Desktop\GlassRobot0115mathfun\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\LN\Desktop\GlassRobot0115mathfun\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot0115mathfun\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot0115mathfun\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot0115mathfun\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\LN\Desktop\GlassRobot0115mathfun\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\LN\Desktop\GlassRobot0115mathfun\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0116\GlassRobot0116\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0116\GlassRobot0116\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0116\GlassRobot0116\GlassRobot\bin\Debug\MathLib.dll
+F:\My Documents\VS2005\GlassRobot0116\GlassRobot0116\GlassRobot\bin\Debug\MathLib.pdb
+F:\My Documents\VS2005\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+F:\My Documents\VS2005\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.pdb
+D:\力源宝\GlassRobot0116\GlassRobot0116\GlassRobot\bin\Debug\GlassRobot.exe
+D:\力源宝\GlassRobot0116\GlassRobot0116\GlassRobot\bin\Debug\GlassRobot.pdb
+D:\力源宝\GlassRobot0116\GlassRobot0116\GlassRobot\bin\Debug\MathLib.dll
+D:\力源宝\GlassRobot0116\GlassRobot0116\GlassRobot\bin\Debug\MathLib.pdb
+D:\力源宝\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+D:\力源宝\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+D:\力源宝\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+D:\力源宝\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+D:\力源宝\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+D:\力源宝\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+D:\力源宝\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.exe
+D:\力源宝\GlassRobot0116\GlassRobot0116\GlassRobot\obj\Debug\GlassRobot.pdb
+D:\GlassRobot0128\GlassRobot\bin\Debug\GlassRobot.exe
+D:\GlassRobot0128\GlassRobot\bin\Debug\GlassRobot.pdb
+D:\GlassRobot0128\GlassRobot\bin\Debug\MathLib.dll
+D:\GlassRobot0128\GlassRobot\bin\Debug\Controller.pdb
+D:\GlassRobot0128\GlassRobot\bin\Debug\MathLib.pdb
+D:\GlassRobot0128\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+D:\GlassRobot0128\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+D:\GlassRobot0128\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+D:\GlassRobot0128\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+D:\GlassRobot0128\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+D:\GlassRobot0128\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+D:\GlassRobot0128\GlassRobot\obj\Debug\GlassRobot.exe
+D:\GlassRobot0128\GlassRobot\obj\Debug\GlassRobot.pdb
+D:\GlassRobot0128\GlassRobot\bin\Debug\Controller.dll
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\bin\Debug\Controller.dll
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\bin\Debug\MathLib.dll
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\bin\Debug\Controller.pdb
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\bin\Debug\MathLib.pdb
+F:\My Documents\VS2005\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.pdb
+D:\GlassRobot0208\GlassRobot\bin\Debug\GlassRobot.exe
+D:\GlassRobot0208\GlassRobot\bin\Debug\GlassRobot.pdb
+D:\GlassRobot0208\GlassRobot\bin\Debug\Controller.dll
+D:\GlassRobot0208\GlassRobot\bin\Debug\MathLib.dll
+D:\GlassRobot0208\GlassRobot\bin\Debug\Controller.pdb
+D:\GlassRobot0208\GlassRobot\bin\Debug\MathLib.pdb
+D:\GlassRobot0208\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+D:\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.FormEdit.resources
+D:\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+D:\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+D:\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+D:\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+D:\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.exe
+D:\GlassRobot0208\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\bin\Debug\Controller.dll
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\bin\Debug\MathLib.dll
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\bin\Debug\Controller.pdb
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\bin\Debug\MathLib.pdb
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0211\GlassRobot\obj\Debug\GlassRobot.pdb
+D:\GlassRobot0213\GlassRobot\bin\Debug\GlassRobot.exe
+D:\GlassRobot0213\GlassRobot\bin\Debug\GlassRobot.pdb
+D:\GlassRobot0213\GlassRobot\bin\Debug\Controller.dll
+D:\GlassRobot0213\GlassRobot\bin\Debug\MathLib.dll
+D:\GlassRobot0213\GlassRobot\bin\Debug\Controller.pdb
+D:\GlassRobot0213\GlassRobot\bin\Debug\MathLib.pdb
+D:\GlassRobot0213\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+D:\GlassRobot0213\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+D:\GlassRobot0213\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+D:\GlassRobot0213\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+D:\GlassRobot0213\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+D:\GlassRobot0213\GlassRobot\obj\Debug\GlassRobot.exe
+D:\GlassRobot0213\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\bin\Debug\Controller.dll
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\bin\Debug\MathLib.dll
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\bin\Debug\Controller.pdb
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\bin\Debug\MathLib.pdb
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0214\GlassRobot\obj\Debug\GlassRobot.pdb
+D:\GlassRobot0215\GlassRobot\bin\Debug\GlassRobot.exe
+D:\GlassRobot0215\GlassRobot\bin\Debug\GlassRobot.pdb
+D:\GlassRobot0215\GlassRobot\bin\Debug\Controller.dll
+D:\GlassRobot0215\GlassRobot\bin\Debug\MathLib.dll
+D:\GlassRobot0215\GlassRobot\bin\Debug\Controller.pdb
+D:\GlassRobot0215\GlassRobot\bin\Debug\MathLib.pdb
+D:\GlassRobot0215\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+D:\GlassRobot0215\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+D:\GlassRobot0215\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+D:\GlassRobot0215\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+D:\GlassRobot0215\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+D:\GlassRobot0215\GlassRobot\obj\Debug\GlassRobot.exe
+D:\GlassRobot0215\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\bin\Debug\Controller.dll
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\bin\Debug\MathLib.dll
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\bin\Debug\Controller.pdb
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\bin\Debug\MathLib.pdb
+F:\My Documents\VS2005\GlassRobot0216\GlassRobot\obj\Debug\GlassRobot.pdb
+D:\GlassRobot0217\GlassRobot\bin\Debug\GlassRobot.exe
+D:\GlassRobot0217\GlassRobot\bin\Debug\GlassRobot.pdb
+D:\GlassRobot0217\GlassRobot\bin\Debug\Controller.dll
+D:\GlassRobot0217\GlassRobot\bin\Debug\MathLib.dll
+D:\GlassRobot0217\GlassRobot\bin\Debug\Controller.pdb
+D:\GlassRobot0217\GlassRobot\bin\Debug\MathLib.pdb
+D:\GlassRobot0217\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+D:\GlassRobot0217\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+D:\GlassRobot0217\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+D:\GlassRobot0217\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+D:\GlassRobot0217\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+D:\GlassRobot0217\GlassRobot\obj\Debug\GlassRobot.exe
+D:\GlassRobot0217\GlassRobot\obj\Debug\GlassRobot.pdb
+E:\GlassRobot0218\GlassRobot\bin\Debug\GlassRobot.exe
+E:\GlassRobot0218\GlassRobot\bin\Debug\GlassRobot.pdb
+E:\GlassRobot0218\GlassRobot\bin\Debug\Controller.dll
+E:\GlassRobot0218\GlassRobot\bin\Debug\MathLib.dll
+E:\GlassRobot0218\GlassRobot\bin\Debug\Controller.pdb
+E:\GlassRobot0218\GlassRobot\bin\Debug\MathLib.pdb
+E:\GlassRobot0218\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+E:\GlassRobot0218\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+E:\GlassRobot0218\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+E:\GlassRobot0218\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+E:\GlassRobot0218\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+E:\GlassRobot0218\GlassRobot\obj\Debug\GlassRobot.exe
+E:\GlassRobot0218\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\bin\Debug\Controller.dll
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\bin\Debug\MathLib.dll
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\bin\Debug\Controller.pdb
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\bin\Debug\MathLib.pdb
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0228\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0324\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\bin\Debug\MathLib.dll
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\bin\Debug\Controller.pdb
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\bin\Debug\MathLib.pdb
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0324\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0327\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0403\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\bin\Debug\Controller.dll
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\bin\Debug\MathLib.dll
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\bin\Debug\Controller.pdb
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\bin\Debug\MathLib.pdb
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot0408\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0411\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0418\GlassRobot\obj\Debug\GlassRobot.pdb
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.pdb
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\bin\Debug\GlassRobot.exe
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\bin\Debug\GlassRobot.pdb
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\bin\Debug\Controller.dll
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\bin\Debug\MathLib.dll
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\bin\Debug\Controller.pdb
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\bin\Debug\MathLib.pdb
+E:\Baidu\Yun\Backup\毕业设计\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\OLDGlassrobot\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.pdb
+G:\GlassRobot0504 - 测试\GlassRobot\bin\Debug\GlassRobot.exe
+G:\GlassRobot0504 - 测试\GlassRobot\bin\Debug\GlassRobot.pdb
+G:\GlassRobot0504 - 测试\GlassRobot\bin\Debug\Controller.dll
+G:\GlassRobot0504 - 测试\GlassRobot\bin\Debug\MathLib.dll
+G:\GlassRobot0504 - 测试\GlassRobot\bin\Debug\Controller.pdb
+G:\GlassRobot0504 - 测试\GlassRobot\bin\Debug\MathLib.pdb
+G:\GlassRobot0504 - 测试\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+G:\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+G:\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+G:\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+G:\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+G:\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.exe
+G:\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.exe
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\bin\Debug\GlassRobot.exe
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\bin\Debug\Controller.dll
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\bin\Debug\MathLib.dll
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\bin\Debug\Controller.pdb
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\bin\Debug\MathLib.pdb
+F:\实验室项目\埃蒙特玻璃机器人\GlassRobot0504 - 测试\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\埃蒙特\原程序\GlassRobot140302-C#\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\GlassRobot140302-C#\GlassRobot\obj\Debug\GlassRobot.exe
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\GlassRobot.exe
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\GlassRobot.pdb
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\Controller.dll
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\MathLib.dll
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\Controller.pdb
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\MathLib.pdb
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.exe
+J:\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot140317-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\GlassRobot140318-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot140407-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\Controller.dll
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot140408-C# 添加示教盒和偏移搬运\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\bin\Debug\Controller.dll
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\GlassRobot140408-C#\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\bin\Debug\Controller.dll
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot140422-C#\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\bin\Debug\Controller.dll
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\LN\Desktop\GlassRobot140422-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\GlassRobot150529-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\bin\Debug\Controller.dll
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\bin\Release\GlassRobot.exe
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\bin\Release\GlassRobot.pdb
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\bin\Release\Controller.dll
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\bin\Release\MathLib.dll
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\bin\Release\Controller.pdb
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\bin\Release\MathLib.pdb
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\GlassRobot.FormKeyNum.resources
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\GlassRobot.FormMain.resources
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\GlassRobot.Properties.Resources.resources
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\GlassRobot.exe
+C:\Users\LN\Desktop\埃蒙特615\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\GlassRobot.pdb
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\bin\Debug\Controller.dll
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\bin\Debug\MathLib.dll
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\bin\Debug\MathLib.pdb
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\bin\Release\GlassRobot.exe
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\bin\Release\GlassRobot.pdb
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\bin\Release\Controller.dll
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\bin\Release\MathLib.dll
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\bin\Release\Controller.pdb
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\bin\Release\MathLib.pdb
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\GlassRobot.FormKeyNum.resources
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\GlassRobot.FormMain.resources
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\GlassRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\GlassRobot.exe
+C:\Users\Administrator\Desktop\埃蒙特1108\GlassRobot150615-C#-fullkey\GlassRobot\obj\Release\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\bin\Debug\Controller.dll
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\bin\Debug\MathLib.dll
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\bin\Debug\Controller.pdb
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\bin\Debug\MathLib.pdb
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobot151121\GlassRobot151121\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobotH\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobotH\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VS2005\GlassRobotH\GlassRobot\bin\Debug\Controller.dll
+F:\My Documents\VS2005\GlassRobotH\GlassRobot\bin\Debug\Controller.pdb
+F:\My Documents\VS2005\GlassRobotH\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VS2005\GlassRobotH\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VS2005\GlassRobotH\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VS2005\GlassRobotH\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VS2005\GlassRobotH\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VS2005\GlassRobotH\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VS2005\GlassRobotH\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VSProjects\2\GlassRobotH\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VSProjects\2\GlassRobotH\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VSProjects\2\GlassRobotH\GlassRobot\bin\Debug\Controller.dll
+F:\My Documents\VSProjects\2\GlassRobotH\GlassRobot\bin\Debug\Controller.pdb
+F:\My Documents\VSProjects\2\GlassRobotH\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VSProjects\2\GlassRobotH\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VSProjects\2\GlassRobotH\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VSProjects\2\GlassRobotH\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VSProjects\2\GlassRobotH\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VSProjects\2\GlassRobotH\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VSProjects\2\GlassRobotH\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VSProjects\2\GlassRobotS\GlassRobot\bin\Debug\GlassRobot.exe
+F:\My Documents\VSProjects\2\GlassRobotS\GlassRobot\bin\Debug\GlassRobot.pdb
+F:\My Documents\VSProjects\2\GlassRobotS\GlassRobot\bin\Debug\Controller.dll
+F:\My Documents\VSProjects\2\GlassRobotS\GlassRobot\bin\Debug\Controller.pdb
+F:\My Documents\VSProjects\2\GlassRobotS\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+F:\My Documents\VSProjects\2\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+F:\My Documents\VSProjects\2\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+F:\My Documents\VSProjects\2\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+F:\My Documents\VSProjects\2\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+F:\My Documents\VSProjects\2\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.exe
+F:\My Documents\VSProjects\2\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.pdb
+F:\My Documents\VSProjects\2\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormMsgBox.resources
+E:\GlassRobotS\GlassRobot\bin\Debug\GlassRobot.exe
+E:\GlassRobotS\GlassRobot\bin\Debug\GlassRobot.pdb
+E:\GlassRobotS\GlassRobot\bin\Debug\Controller.dll
+E:\GlassRobotS\GlassRobot\bin\Debug\Controller.pdb
+E:\GlassRobotS\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+E:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+E:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+E:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+E:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormMsgBox.resources
+E:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+E:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.exe
+E:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.pdb
+D:\GlassRobotS\GlassRobot\bin\Debug\GlassRobot.exe
+D:\GlassRobotS\GlassRobot\bin\Debug\GlassRobot.pdb
+D:\GlassRobotS\GlassRobot\bin\Debug\Controller.dll
+D:\GlassRobotS\GlassRobot\bin\Debug\Controller.pdb
+D:\GlassRobotS\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+D:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+D:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+D:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+D:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormMsgBox.resources
+D:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+D:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.exe
+D:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.pdb
+I:\GlassRobotS\GlassRobot\bin\Debug\GlassRobot.exe
+I:\GlassRobotS\GlassRobot\bin\Debug\GlassRobot.pdb
+I:\GlassRobotS\GlassRobot\bin\Debug\Controller.dll
+I:\GlassRobotS\GlassRobot\bin\Debug\Controller.pdb
+I:\GlassRobotS\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+I:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+I:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+I:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+I:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormMsgBox.resources
+I:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+I:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.exe
+I:\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.pdb
+C:\Users\jdrjk\Desktop\GlassRobotS\GlassRobot\bin\Debug\GlassRobot.exe
+C:\Users\jdrjk\Desktop\GlassRobotS\GlassRobot\bin\Debug\GlassRobot.pdb
+C:\Users\jdrjk\Desktop\GlassRobotS\GlassRobot\bin\Debug\Controller.dll
+C:\Users\jdrjk\Desktop\GlassRobotS\GlassRobot\bin\Debug\Controller.pdb
+C:\Users\jdrjk\Desktop\GlassRobotS\GlassRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jdrjk\Desktop\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormKeyNum.resources
+C:\Users\jdrjk\Desktop\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormMain.resources
+C:\Users\jdrjk\Desktop\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.Properties.Resources.resources
+C:\Users\jdrjk\Desktop\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.FormMsgBox.resources
+C:\Users\jdrjk\Desktop\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+C:\Users\jdrjk\Desktop\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.exe
+C:\Users\jdrjk\Desktop\GlassRobotS\GlassRobot\obj\Debug\GlassRobot.pdb

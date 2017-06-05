@@ -1,0 +1,223 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{12086476-4F60-4E9F-B1AE-386BBB7452D8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GlassRobot</RootNamespace>
+    <AssemblyName>GlassRobot</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.0</OSVersion>
+    <DeployDirSuffix>\Hard Disk\GlassRobot</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <DeployDirPrefix>\</DeployDirPrefix>
+    <StartupObject>GlassRobot.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.WindowsCE.Forms" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormKeyNum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKeyNum.Designer.cs">
+      <DependentUpon>FormKeyNum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Function.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Job.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormKeyNum.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormKeyNum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMsgBox.resx">
+      <DependentUpon>FormMsgBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Var.cs" />
+    <Compile Include="FormMsgBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMsgBox.Designer.cs">
+      <DependentUpon>FormMsgBox.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\AN.bmp" />
+    <Content Include="Resources\ANblue.bmp" />
+    <Content Include="Resources\AP.bmp" />
+    <Content Include="Resources\APblue.bmp" />
+    <Content Include="Resources\AUTO.bmp" />
+    <Content Include="Resources\AUTORUN.bmp" />
+    <Content Include="Resources\BACKUP.bmp" />
+    <Content Include="Resources\BASE.bmp" />
+    <Content Include="Resources\BN.bmp" />
+    <Content Include="Resources\BNblue.bmp" />
+    <Content Include="Resources\BP.bmp" />
+    <Content Include="Resources\BPblue.bmp" />
+    <Content Include="Resources\CLOSEFILE.bmp" />
+    <Content Include="Resources\CN.bmp" />
+    <Content Include="Resources\CNblue.bmp" />
+    <Content Include="Resources\COORDCARTESIAN.bmp" />
+    <Content Include="Resources\COORDCYLINDER.bmp" />
+    <Content Include="Resources\COORDROBOT.bmp" />
+    <Content Include="Resources\COORDUSER1.bmp" />
+    <Content Include="Resources\COORDUSER2.bmp" />
+    <Content Include="Resources\COUNT.bmp" />
+    <Content Include="Resources\CP.bmp" />
+    <Content Include="Resources\CPblue.bmp" />
+    <Content Include="Resources\CYCLERUN.bmp" />
+    <Content Include="Resources\DELETE.bmp" />
+    <Content Include="Resources\DN.bmp" />
+    <Content Include="Resources\DNblue.bmp" />
+    <Content Include="Resources\DP.bmp" />
+    <Content Include="Resources\DPblue.bmp" />
+    <Content Include="Resources\EDITFILE.bmp" />
+    <Content Include="Resources\EXTENDEDIO.bmp" />
+    <Content Include="Resources\GRIPPER.bmp" />
+    <Content Include="Resources\HAND.bmp" />
+    <Content Include="Resources\HANDTEACH.bmp" />
+    <Content Include="Resources\HELP.bmp" />
+    <Content Include="Resources\HN.bmp" />
+    <Content Include="Resources\HNblue.bmp" />
+    <Content Include="Resources\HOME.bmp" />
+    <Content Include="Resources\HP.bmp" />
+    <Content Include="Resources\HPblue.bmp" />
+    <None Include="Resources\Image1.bmp" />
+    <Content Include="Resources\INSERT.bmp" />
+    <Content Include="Resources\INTERNET.bmp" />
+    <Content Include="Resources\MONITOR.bmp" />
+    <Content Include="Resources\OPENFILE.bmp" />
+    <None Include="Resources\Password.png" />
+    <Content Include="Resources\POINTRUN.bmp" />
+    <Content Include="Resources\RESAVEFILE.bmp" />
+    <Content Include="Resources\RN.bmp" />
+    <Content Include="Resources\RNblue.bmp" />
+    <Content Include="Resources\ROBOT.bmp" />
+    <Content Include="Resources\ROBOT1.bmp" />
+    <Content Include="Resources\ROBOT2.bmp" />
+    <Content Include="Resources\RP.bmp" />
+    <Content Include="Resources\RPblue.bmp" />
+    <Content Include="Resources\RUN.bmp" />
+    <Content Include="Resources\RUN_PAUSE.bmp" />
+    <Content Include="Resources\RUN_PLAY.bmp" />
+    <Content Include="Resources\RUN_STOP.bmp" />
+    <Content Include="Resources\RzN.bmp" />
+    <Content Include="Resources\RzNblue.bmp" />
+    <Content Include="Resources\RzP.bmp" />
+    <Content Include="Resources\RzPblue.bmp" />
+    <Content Include="Resources\SAVE.bmp" />
+    <Content Include="Resources\SAVEFILE.bmp" />
+    <Content Include="Resources\SERVO.bmp" />
+    <Content Include="Resources\SERVOOFF.bmp" />
+    <Content Include="Resources\SERVOON.bmp" />
+    <Content Include="Resources\SERVOWRONG.bmp" />
+    <Content Include="Resources\SETLOADINFO.bmp" />
+    <Content Include="Resources\SPEEDHIGH.bmp" />
+    <Content Include="Resources\SPEEDINC.bmp" />
+    <Content Include="Resources\SPEEDLOW.bmp" />
+    <Content Include="Resources\SPEEDMAX.bmp" />
+    <Content Include="Resources\SYSTEMIO.bmp" />
+    <Content Include="Resources\TLOCK.bmp" />
+    <Content Include="Resources\TRIALRUN.bmp" />
+    <Content Include="Resources\TUNLOCK.bmp" />
+    <Content Include="Resources\USERIO.bmp" />
+    <Content Include="Resources\VERSION.bmp" />
+    <Content Include="Resources\WRONG.bmp" />
+    <Content Include="Resources\XN.bmp" />
+    <Content Include="Resources\XNblue.bmp" />
+    <Content Include="Resources\XP.bmp" />
+    <Content Include="Resources\XPblue.bmp" />
+    <Content Include="Resources\YN.bmp" />
+    <Content Include="Resources\YNblue.bmp" />
+    <Content Include="Resources\YP.bmp" />
+    <Content Include="Resources\YPblue.bmp" />
+    <Content Include="Resources\ZN.bmp" />
+    <Content Include="Resources\ZNblue.bmp" />
+    <Content Include="Resources\ZP.bmp" />
+    <Content Include="Resources\ZPblue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Controller\Controller.csproj">
+      <Project>{E7BF4D10-404D-484C-9E90-D530A2F387E2}</Project>
+      <Name>Controller</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

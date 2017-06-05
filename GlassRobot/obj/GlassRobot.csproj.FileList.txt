@@ -1,0 +1,14 @@
+bin\Debug\GlassRobot.exe
+bin\Debug\GlassRobot.pdb
+bin\Debug\MathLib.dll
+bin\Debug\MathLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GlassRobot.FormEdit.resources
+obj\Debug\GlassRobot.FormKeyNum.resources
+obj\Debug\GlassRobot.FormMain.resources
+obj\Debug\GlassRobot.Properties.Resources.resources
+obj\Debug\GlassRobot.csproj.GenerateResource.Cache
+obj\Debug\GlassRobot.exe
+obj\Debug\GlassRobot.pdb
+bin\Debug\Controller.dll
+bin\Debug\Controller.pdb

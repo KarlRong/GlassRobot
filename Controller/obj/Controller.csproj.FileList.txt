@@ -1,0 +1,7 @@
+bin\Debug\Controller.dll
+bin\Debug\Controller.pdb
+bin\Debug\MathLib.dll
+bin\Debug\MathLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Controller.dll
+obj\Debug\Controller.pdb
